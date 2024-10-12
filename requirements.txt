@@ -3,3 +3,8 @@ numpy
 matplotlib
 jupyter
 pandas
+scikit-learn
+tabulate
+pickle5
+
+
